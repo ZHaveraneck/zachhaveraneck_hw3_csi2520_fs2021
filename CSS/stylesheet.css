@@ -13,7 +13,7 @@ img{
     display: block;
     margin-left: 35%;
     margin-right: 35%;
-    width: 40%;
+    width: 15%;
     padding: 2%;
 }
 
@@ -70,8 +70,15 @@ footer{
 nav{
     float: right;
     overflow: hidden;
+    border-style: solid;
+    color: burlywood;
 }
 
 #book{
     width: 40%;
 }
+
+#Main_Intro{
+    font-family: fantasy !important; 
+}
+    
