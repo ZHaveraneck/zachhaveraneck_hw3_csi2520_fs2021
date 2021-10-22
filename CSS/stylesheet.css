@@ -1,0 +1,73 @@
+li :hover{
+    color:rgb(29, 4, 252);
+    background-color:rgb(184, 80, 11);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(184, 80, 11);
+}
+
+img{
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 40%;
+    padding: 2%;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Quote{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+#Intro{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(184, 80, 11);
+    
+}
+
+table{
+    color: seagreen;
+    background-color: skyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Contact{
+    font-family: fantasy;
+}
+
+#Objective{
+    font-family: monospace;
+}
+
+#Experience{
+    font-family: monospace;
+}
+
+#Education{
+    font-family: monospace;
+}
+
+#Hobbies{
+    font-family: monospace;
+}
+
+footer{
+    color: teal;
+    background-color: burlywood;
+}
+
+nav{
+    float: right;
+    overflow: hidden;
+}
