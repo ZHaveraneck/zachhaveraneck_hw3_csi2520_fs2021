@@ -71,6 +71,7 @@ nav{
     float: right;
     overflow: hidden;
     border-style: solid;
+    border-radius: 10%;
     color: burlywood;
 }
 
