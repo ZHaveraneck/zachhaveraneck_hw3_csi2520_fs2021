@@ -71,3 +71,7 @@ nav{
     float: right;
     overflow: hidden;
 }
+
+#book{
+    width: 40%;
+}
